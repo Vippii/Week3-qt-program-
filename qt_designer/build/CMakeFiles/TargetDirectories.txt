@@ -1,0 +1,4 @@
+D:/Year2ComProject/Week3/qt_designer/build/CMakeFiles/hello_qt2.dir
+D:/Year2ComProject/Week3/qt_designer/build/CMakeFiles/edit_cache.dir
+D:/Year2ComProject/Week3/qt_designer/build/CMakeFiles/rebuild_cache.dir
+D:/Year2ComProject/Week3/qt_designer/build/CMakeFiles/hello_qt2_autogen.dir
